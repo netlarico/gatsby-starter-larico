@@ -1,5 +1,5 @@
 import React from "react";
-import { Formik } from "formik";
+import { Formik, Field } from "formik";
 import { navigate } from "gatsby-link";
 import validationSchema from "./validationSchema";
 
@@ -49,9 +49,10 @@ const ContactForm = () => {
           className="contact-form"
         >
           <div className="field">
+            {/*  eslint-disable  */}
             <label htmlFor="name" className="label">
               Name
-              <input
+              <Field
                 className="ant-input"
                 type="text"
                 placeholder="Full Name"
@@ -70,7 +71,7 @@ const ContactForm = () => {
           <div className="field">
             <label htmlFor="email" className="label">
               Email
-              <input
+              <Field
                 className="ant-input"
                 type="email"
                 placeholder="Email"
@@ -89,8 +90,9 @@ const ContactForm = () => {
           <div className="field">
             <label htmlFor="message" className="label">
               Message
-              <textarea
+              <Field
                 className="ant-input"
+                component="textarea"
                 placeholder="Message"
                 name="message"
                 id="message"
