@@ -29,4 +29,4 @@ Started from [gatsby-starter-business](https://github.com/v4iv/gatsby-starter-bu
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlarico/gatsby-starter-larico&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01ed53d9-fe56-446f-946c-b67aacc7cce6/deploy-status)](https://gatsby-starter.larico.net/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e496c16-353f-4f0b-97fc-e5b413f4a713/deploy-status)](https://gatsby-starter.larico.net/)
