@@ -100,19 +100,7 @@ module.exports = {
       },
     },
     */
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: config.siteTitle,
-        short_name: config.siteTitleAlt,
-        start_url: "/",
-        background_color: config.backgroundColor,
-        theme_color: config.themeColor,
-        display: "fullscreen",
-        icon: "static/img/logo.png",
-      },
-    },
-    `gatsby-plugin-offline`,
+
     {
       resolve: "gatsby-plugin-feed",
       options: {
@@ -222,6 +210,19 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: config.siteTitle,
+        short_name: config.siteTitleAlt,
+        start_url: "/",
+        background_color: config.backgroundColor,
+        theme_color: config.themeColor,
+        display: "fullscreen",
+        icon: "static/img/logo.png",
+      },
+    },
+    `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
 };
