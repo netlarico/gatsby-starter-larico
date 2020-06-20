@@ -10,7 +10,7 @@ Started from [gatsby-starter-business](https://github.com/v4iv/gatsby-starter-bu
 
 ## Features
 
-- Pages - Home, About, Services, Contact Pricing & Blog
+- Pages - Home, About, Services, Contact, Pricing & Blog
 - Netlify CMS for Content Management
 - Manage Home Carouse slide
 - SEO Friendly (Sitemap, Schemas, Meta Tags, GTM etc)
