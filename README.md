@@ -25,9 +25,10 @@ Started from [gatsby-starter-business](https://github.com/v4iv/gatsby-starter-bu
 - Contact Form (Netlify Forms)
 - Easy Configuration using `config.js` file
 
-
 ## Getting Started
+
 Create your own project with Gatsby CLI:
+
 ```shell
 gatsby new customname https://github.com/netlarico/gatsby-starter-larico.git
 ```
@@ -36,4 +37,4 @@ gatsby new customname https://github.com/netlarico/gatsby-starter-larico.git
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlarico/gatsby-starter-larico&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e496c16-353f-4f0b-97fc-e5b413f4a713/deploy-status)](https://gatsby-starter.larico.net/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e496c16-353f-4f0b-97fc-e5b413f4a713/deploy-status)](https://app.netlify.com/sites/gatsby-starter-larico/deploys)
