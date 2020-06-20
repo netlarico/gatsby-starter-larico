@@ -25,6 +25,13 @@ Started from [gatsby-starter-business](https://github.com/v4iv/gatsby-starter-bu
 - Contact Form (Netlify Forms)
 - Easy Configuration using `config.js` file
 
+
+## Getting Started
+Create your own project with Gatsby CLI:
+```shell
+gatsby new customname https://github.com/netlarico/gatsby-starter-larico.git
+```
+
 =================================
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlarico/gatsby-starter-larico&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
