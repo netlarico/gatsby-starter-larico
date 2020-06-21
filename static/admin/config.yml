@@ -62,7 +62,7 @@ collections:
                                   fields:
                                       [
                                           {
-                                              label: Title,
+                                              label: Title Box,
                                               name: title,
                                               widget: string,
                                           },

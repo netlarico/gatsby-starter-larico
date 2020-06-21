@@ -29,8 +29,9 @@ const Slides = ({ slides }) => (
                     <Link
                         className='ant-btn ant-btn-primary'
                         to={slides.linkto}
+                        title={slides.title}
                     >
-                        <span>Learn more</span>
+                        Learn more
                     </Link>
                 </div>
             </div>
