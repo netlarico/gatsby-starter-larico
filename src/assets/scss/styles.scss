@@ -485,6 +485,12 @@ footer.ftr {
     p {
         margin: 0;
     }
+    a {
+        color: #ffc7b3;
+        &:hover {
+            color: #fff;
+        }
+    }
 }
 
 // INNER PAGES

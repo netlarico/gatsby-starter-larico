@@ -27,11 +27,11 @@ const Slides = ({ slides }) => (
                     <h2>{slides.title}</h2>
                     <p>{slides.description}</p>
                     <Link
-                        className='ant-btn ant-btn-primary'
+                        className='ant-btn '
                         to={slides.linkto}
                         title={slides.title}
                     >
-                        Learn more
+                        Learn more about us
                     </Link>
                 </div>
             </div>
