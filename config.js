@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Gatsby Starter Larico",
   siteTitleAlt: "Ready to start",
   siteLogo: "/img/logo.png",
-  siteUrl: "https://gatsby-starter.larico.net",
+  siteUrl: "https://gatsby-starter-larico.netlify.app/",
   pathPrefix: "",
   siteDescription: "Affordable Gatsby and Netlify-cms ready for start",
   siteRss: "/rss.xml",
