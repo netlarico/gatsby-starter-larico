@@ -6,7 +6,7 @@ Started from [gatsby-starter-business](https://github.com/v4iv/gatsby-starter-bu
 
 ## Live Demo
 
-[Gatsby Starter Larico](https://gatsby-starter.larico.net/)
+[Gatsby Starter Larico](https://gatsby-starter-larico.netlify.app/)
 
 ## Features
 
