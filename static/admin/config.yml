@@ -12,8 +12,8 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 
-site_url: https://gatsby-starter.larico.net
-display_url: https://gatsby-starter.larico.net
+site_url: https://gatsby-starter-larico.netlify.app
+display_url: https://gatsby-starter-larico.netlify.app
 logo_url: /img/logo-panel.png
 
 collections:
